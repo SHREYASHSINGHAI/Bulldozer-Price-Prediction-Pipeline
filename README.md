@@ -74,6 +74,3 @@ Random Forest Regressor was used due to:
 - Ability to model nonlinear relationships
 
 ---
-
-## Repository Structure
-
